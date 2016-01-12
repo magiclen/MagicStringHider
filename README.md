@@ -3,7 +3,7 @@ MagicStringHider
 
 # Introduction
 
-**MagicStringHider** is a Java library which is used for hiding any string by converting it into another string composed of A-Z characters. The hidden string is not unique. One original string can be converted to different strings. but they can be recovered to the same original string. You can create your hidden string by adding any key to protect it from someone who has **MagicStringHider** library, too.
+**MagicStringHider** is a Java library which is used for hiding any string by converting it into another string composed of A-Z characters. The hidden string is not unique. One original string can be converted to different strings, but they can be recovered to the same original string. You can create your hidden string by adding any key to protect it from someone who has **MagicStringHider** library, too.
 
 # Usage
 
